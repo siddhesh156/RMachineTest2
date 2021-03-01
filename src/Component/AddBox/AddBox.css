@@ -1,0 +1,29 @@
+
+.e1{
+    float: left;
+    font-weight: bold;
+    color: #3500d3;
+}
+
+.add-buttons{
+    border-width: 0px;
+    background: #3500d3;
+    border-radius: 25px;
+    color: white;
+    width: 85px;
+}
+
+.cancel-buttons{
+    margin-left: 5px;
+   
+    border-width: 0px;
+    background: lightsalmon;
+    border-radius: 25px;
+    color: white;
+    width: 85px;
+}
+
+.bottomContainer{
+    float: right;
+    margin-top: 35px;
+}
